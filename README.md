@@ -1,1 +1,1 @@
-# ConfigProfile
+# Apple Sidelab Config Profile
